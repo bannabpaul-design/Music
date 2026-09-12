@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Melody</string>
+    <string name="tab_songs">បទចម្រៀង</string>
+    <string name="tab_playlists">បញ្ជីចម្រៀង</string>
+    <string name="tab_equalizer">Equalizer</string>
+    <string name="tab_settings">ការកំណត់</string>
+    <string name="now_playing">កំពុងចាក់</string>
+    <string name="no_songs_found">រកមិនឃើញបទចម្រៀង</string>
+    <string name="import_songs">នាំចូលឯកសារតន្ត្រី</string>
+    <string name="playlists_title">បញ្ជីចម្រៀងផ្ទាល់ខ្លួន</string>
+    <string name="create_playlist">បង្កើតបញ្ជីចម្រៀង</string>
+    <string name="new_playlist_name">ឈ្មោះបញ្ជីចម្រៀង</string>
+    <string name="sleep_timer">កំណត់ពេលបិទស្វ័យប្រវត្តិ</string>
+    <string name="edit_tags">កែសម្រួលព័ត៌មានបទ</string>
+    <string name="change_cover">ប្ដូររូបគម្របអាល់ប៊ុម</string>
+    <string name="song_title">ចំណងជើង</string>
+    <string name="artist_name">អ្នកនិពន្ធ / តារាចម្រៀង</string>
+    <string name="save">រក្សាទុក</string>
+    <string name="cancel">បោះបង់</string>
+    <string name="delete">លុប</string>
+</resources>

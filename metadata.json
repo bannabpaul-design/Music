@@ -1,0 +1,6 @@
+{
+  "name": "Melody Music Player",
+  "description": "Offline music player supporting MP3, AAC, WAV, and all audio formats with equalizer, playlists, custom album art, sleep timer, and tag editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
